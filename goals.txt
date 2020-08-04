@@ -1,0 +1,129 @@
+Goal,OpponentMessi,DateRonaldo,OpponentRonaldo,DateRonaldo
+1,Panathinaikos (h), 5-0,02/11/05,Roma (h), 7-1,10/04/07
+2,Werder Bremen (a), 1-1,27/09/06,Roma (h), 7-1,10/04/07
+3,Lyon (h), 3-0,19/09/07,Milan (h), 3-2,24/04/07
+4,Stuttgart (a), 2-0,02/10/07,Sporting CP (a), 1-0,19/09/07
+5,Rangers (h), 2-0,07/11/07,Dynamo Kyiv (a), 4-2,23/10/07
+6,Lyon (a), 2-2,27/11/07,Dynamo Kyiv (a), 4-2,23/10/07
+7,Celtic (a), 3-2,20/02/08,Dynamo Kyiv (h), 4-0,07/11/07
+8,Celtic (a), 3-2,20/02/08,Sporting CP (h), 2-1,27/11/07
+9,Shakhtar (a), 2-1,01/10/08,Lyon (h), 1-0,04/03/08
+10,Shakhtar (a), 2-1,01/10/08,Roma (a), 2-0,01/04/08
+11,Basel (a), 5-0,22/10/08,Chelsea (n), 1-1,21/05/08
+12,Basel (h), 1-1,04/11/08,Internazionale (h), 2-0,11/03/09
+13,Sporting CP (a), 5-2,26/11/08,Porto (a), 1-0,15/04/09
+14,Lyon (h), 5-2,11/03/09,Arsenal (a), 3-1,05/05/09
+15,Bayern (h), 4-0,08/04/09,Arsenal (a), 3-1,05/05/09
+16,Bayern (h), 4-0,08/04/09,Zrich (a), 5-2,15/09/09
+17,Man Utd (n), 2-0,27/05/09,Zrich (a), 5-2,15/09/09
+18,Dynamo Kyiv (h), 2-0,29/09/09,Marseille (h), 3-0,30/09/09
+19,Dynamo Kyiv (a), 2-1,09/12/09,Marseille (h), 3-0,30/09/09
+20,Stuttgart (h), 4-0,17/03/10,Marseille (a), 3-1,08/12/09
+21,Stuttgart (h), 4-0,17/03/10,Marseille (a), 3-1,08/12/09
+22,Arsenal (h), 4-1,06/04/10,Lyon (h), 1-1,10/03/10
+23,Arsenal (h), 4-1,06/04/10,Milan (h), 2-0,19/10/10
+24,Arsenal (h), 4-1,06/04/10,Ajax (a), 4-0,23/11/10
+25,Arsenal (h), 4-1,06/04/10,Ajax (a), 4-0,23/11/10
+26,Panathinaikos (h), 5-1,14/09/10,Auxerre (h), 4-0,08/12/10
+27,Panathinaikos (h), 5-1,14/09/10,Tottenham (h), 4-0,05/04/11
+28,Kbenhavn (h), 2-0,20/10/10,Tottenham (a), 1-0,13/04/11
+29,Kbenhavn (h), 2-0,20/10/10,Ajax (h), 3-0,27/09/11
+30,Kbenhavn (a), 1-1,02/11/10,Lyon (a), 2-0,02/11/11
+31,Panathinaikos (a), 3-0,24/11/10,Lyon (a), 2-0,02/11/11
+32,Arsenal (h), 3-1,08/03/11,CSKA Moskva (a), 1-1,21/02/12
+33,Arsenal (h), 3-1,08/03/11,CSKA Moskva (h), 4-1,14/03/12
+34,Shakhtar (a), 1-0,12/04/11,CSKA Moskva (h), 4-1,14/03/12
+35,Real Madrid (a), 2-0,27/04/11,APOEL (h), 5-2,04/04/12
+36,Real Madrid (a), 2-0,27/04/11,APOEL (h), 5-2,04/04/12
+37,Man Utd (n), 3-1,28/05/11,Bayern (h), 2-1,25/04/12
+38,BATE (a), 5-0,28/09/11,Bayern (h), 2-1,25/04/12
+39,BATE (a), 5-0,28/09/11,Man City (h), 3-2,18/09/12
+40,Viktoria Plze (a), 4-0,01/11/11,Ajax (a), 4-1,03/10/12
+41,Viktoria Plze (a), 4-0,01/11/11,Ajax (a), 4-1,03/10/12
+42,Viktoria Plze (a), 4-0,01/11/11,Ajax (a), 4-1,03/10/12
+43,Milan (a), 3-2,23/11/11,Dortmund (a), 1-2,24/10/12
+44,Leverkusen (a), 3-1,14/02/12,Ajax (h), 4-1,04/12/12
+45,Leverkusen (h), 7-1,07/03/12,Man Utd (h), 1-1,13/02/13
+46,Leverkusen (h), 7-1,07/03/12,Man Utd (a), 2-1,05/03/13
+47,Leverkusen (h), 7-1,07/03/12,Galatasaray (h), 3-0,03/04/13
+48,Leverkusen (h), 7-1,07/03/12,Galatasaray (a), 2-3,09/04/13
+49,Leverkusen (h), 7-1,07/03/12,Galatasaray (a), 2-3,09/04/13
+50,Milan (h), 3-1,03/04/12,Dortmund (a), 1-4,24/04/13
+51,Milan (h), 3-1,03/04/12,Galatasaray (a), 6-1,17/09/13
+52,Spartak Moskva (h), 3-2,19/09/12,Galatasaray (a), 6-1,17/09/13
+53,Spartak Moskva (h), 3-2,19/09/12,Galatasaray (a), 6-1,17/09/13
+54,Celtic (a), 1-2,07/11/12,Kbenhavn (h), 4-0,02/10/13
+55,Spartak Moskva (a), 3-0,20/11/12,Kbenhavn (h), 4-0,02/10/13
+56,Spartak Moskva (a), 3-0,20/11/12,Juventus (h), 2-1,23/10/13
+57,Milan (h), 4-0,12/03/13,Juventus (h), 2-1,23/10/13
+58,Milan (h), 4-0,12/03/13,Juventus (a), 2-2,05/11/13
+59,Paris (a), 2-2,02/04/13,Kbenhavn (a), 2-0,10/12/13
+60,Ajax (h), 4-0,18/09/13,Schalke (a), 6-1,26/02/14
+61,Ajax (h), 4-0,18/09/13,Schalke (a), 6-1,26/02/14
+62,Ajax (h), 4-0,18/09/13,Schalke (h), 3-1,18/03/14
+63,Milan (a), 1-1,22/10/13,Schalke (h), 3-1,18/03/14
+64,Milan (h), 3-1,06/11/13,Dortmund (h), 3-0,02/04/14
+65,Milan (h), 3-1,06/11/13,Bayern (a), 4-0,29/04/14
+66,Man City (a), 2-0,18/02/14,Bayern (a), 4-0,29/04/14
+67,Man City (h), 2-1,12/03/14,Atltico (n), 4-1,25/05/14
+68,Paris (a), 2-3,30/09/14,Basel (h), 5-1,16/09/14
+69,Ajax (h), 3-1,21/10/14,Ludogorets (a), 2-1,01/10/14
+70,Ajax (a), 2-0,05/11/14,Liverpool (a), 3-0,22/10/14
+71,Ajax (a), 2-0,05/11/14,Basel (a), 1-0,26/11/14
+72,APOEL (a), 4-0,25/11/14,Ludogorets (h), 4-0,09/12/14
+73,APOEL (a), 4-0,25/11/14,Schalke (a), 2-0,18/02/15
+74,APOEL (a), 4-0,25/11/14,Schalke (h), 3-4,10/03/15
+75,Paris (h), 3-1,10/12/14,Schalke (h), 3-4,10/03/15
+76,Bayern (h), 3-0,06/05/15,Juventus (a), 1-2,05/05/15
+77,Bayern (h), 3-0,06/05/15,Juventus (h), 1-1,13/05/15
+78,Roma (h), 6-1,24/11/15,Shakhtar (h), 4-0,15/09/15
+79,Roma (h), 6-1,24/11/15,Shakhtar (h), 4-0,15/09/15
+80,Leverkusen (a), 1-1,09/12/15,Shakhtar (h), 4-0,15/09/15
+81,Arsenal (a), 2-0,23/02/16,Malm (a), 2-0,30/09/15
+82,Arsenal (a), 2-0,23/02/16,Malm (a), 2-0,30/09/15
+83,Arsenal (h), 3-1,16/03/16,Shakhtar (a), 4-3,25/11/15
+84,Celtic (h), 7-0,13/09/16,Shakhtar (a), 4-3,25/11/15
+85,Celtic (h), 7-0,13/09/16,Malm (h), 8-0,08/12/15
+86,Celtic (h), 7-0,13/09/16,Malm (h), 8-0,08/12/15
+87,Man City (h), 4-0,19/10/16,Malm (h), 8-0,08/12/15
+88,Man City (h), 4-0,19/10/16,Malm (h), 8-0,08/12/15
+89,Man City (h), 4-0,19/10/16,Roma (a), 2-0,17/02/16
+90,Man City (a), 1-3,01/11/16,Roma (h), 2-0,08/03/16
+91,Celtic (a), 2-0,23/11/16,Wolfsburg (h), 3-0,12/04/16
+92,Celtic (a), 2-0,23/11/16,Wolfsburg (h), 3-0,12/04/16
+93,Mnchengladbach (h), 4-0,06/12/16,Wolfsburg (h), 3-0,12/04/16
+94,Paris (h), 6-1,08/03/17,Sporting CP (h), 2-1,14/09/16
+95,Juventus (h), 3-0,12/09/17,Dortmund (a), 2-2,27/09/16
+96,Juventus (h), 3-0,12/09/17,Bayern (a), 2-1,12/04/17
+97,Olympiacos (h), 3-1,18/10/17,Bayern (a), 2-1,12/04/17
+98,Chelsea (a), 1-1,20/02/18,Bayern (h), 4-2,18/04/17
+99,Chelsea (h), 3-0,14/03/18,Bayern (h), 4-2,18/04/17
+100,Chelsea (h), 3-0,14/03/18,Bayern (h), 4-2,18/04/17
+101,PSV (h), 4-0,18/09/18,Atltico (h), 3-0,02/05/17
+102,PSV (h), 4-0,18/09/18,Atltico (h), 3-0,02/05/17
+103,PSV (h), 4-0,18/09/18,Atltico (h), 3-0,02/05/17
+104,Tottenham (a), 4-2,03/10/18,Juventus (n), 4-1,03/06/17
+105,Tottenham (a), 4-2,03/10/18,Juventus (n), 4-1,03/06/17
+106,PSV (a), 2-1,28/11/18,APOEL (h), 3-0,13/09/17
+107,Lyon (h), 5-1,13/03/19,APOEL (h), 3-0,13/09/17
+108,Lyon (h), 5-1,13/03/19,Dortmund (a), 3-1,26/09/17
+109,Man Utd (h), 3-0,16/04/19,Dortmund (a), 3-1,26/09/17
+110,Man Utd (h), 3-0,16/04/19,Tottenham (h), 1-1,17/10/17
+111,Liverpool (h), 3-0,01/05/19,Tottenham (a), 1-3,01/11/17
+112,Liverpool (h), 3-0,01/05/19,APOEL (a), 6-0,21/11/17
+113,Slavia Praha (a), 2-1,23/10/19,APOEL (a), 6-0,21/11/17
+114,Dortmund (h), 3-1,27/11/19,Dortmund (h), 3-2,06/12/17
+115,N/A,N/A,Paris (h), 3-1,14/02/18
+116,N/A,N/A,Paris (h), 3-1,14/02/18
+117,N/A,N/A,Paris (a), 2-1,06/03/18
+118,N/A,N/A,Juventus (a), 3-0,03/04/18
+119,N/A,N/A,Juventus (a), 3-0,03/04/18
+120,N/A,N/A,Juventus (h), 1-3,11/04/18
+121,N/A,N/A,Man Utd (h), 1-2,07/11/18
+122,N/A,N/A,Atltico (h), 3-0,12/03/19
+123,N/A,N/A,Atltico (h), 3-0,12/03/19
+124,N/A,N/A,Atltico (h), 3-0,12/03/19
+125,N/A,N/A,Ajax (a), 1-1,10/04/19
+126,N/A,N/A,Ajax (h), 1-2,16/04/19
+127,N/A,N/A,Leverkusen (h), 3-0,01/10/19
+128,N/A,N/A,Leverkusen (a), 2-0,11/12/19
